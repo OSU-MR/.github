@@ -1,4 +1,4 @@
-## Welcom to OSU CMR Lab
+## Welcome to CMR Lab at The Ohio State University
 
 <!--
 
