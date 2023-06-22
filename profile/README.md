@@ -21,4 +21,4 @@ Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, p
 * Python/MATLAB code: https://github.com/MRIOSU/OCMR/tree/master
 * Link to download data: https://ocmr.info/download/
 * Related publication: https://arxiv.org/pdf/2008.03410.pdf
-  * A data repository for cardiac cine data   
+  * A k-space data repository for cardiac cine along with the code to read the data 
