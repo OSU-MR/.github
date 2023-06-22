@@ -8,11 +8,11 @@ Welcome of OSU-MR. Our primary focus is to share code for MR data acquisition, p
 ## Public code repositories
 ### Data sampling
 * https://github.com/OSU-CMR/cmr-sampling
-    * MATLAB code for pseudo-random Cartesian sampling patterns for 2D cine, 2D flow, 3D cine, and 4D flow
+   * MATLAB code for pseudo-random Cartesian sampling patterns for 2D cine, 2D flow, 3D cine, and 4D flow
       
 ### Image Reconstruction
 * https://github.com/OSU-CMR/HICU
-   * asd
+   * MATLAB code for calibrationless k-space reconstruction for 2D static, 3D static, and 2D+t dynamic applications
   
 
 ## Public data repositories
