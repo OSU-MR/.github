@@ -1,4 +1,4 @@
-## Welcome to CMR Lab at The Ohio State University
+## Welcome to Ohio State University's MRI Reconstruction (OSU-MR) Toolbox
 
 <!--
 
@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### Lab website: https://u.osu.edu/ahmad/
+### PI's website: https://u.osu.edu/ahmad/
