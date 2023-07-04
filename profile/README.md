@@ -6,7 +6,7 @@
 Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, pre-processing, and reconstruction. Our codebase is built on the principle of transparency, accessibility, and reproducibility.
 
 ## Public code repositories
-### Data sampling (GRO, CAVA, VISTA, OPRA, PR4D)
+### Data Sampling (GRO, CAVA, VISTA, OPRA, PR4D)
 * MATLAB code: https://github.com/OSU-CMR/cmr-sampling
 * Related publication: https://arxiv.org/abs/2206.03630
 * Description: Implementation of pseudo-random Cartesian sampling patterns for 2D cine, 2D flow, 3D cine, and 4D flow
