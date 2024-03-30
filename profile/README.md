@@ -19,8 +19,7 @@ Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, p
 ### Surface coil intensity correction (SCC)
 * Python code: https://github.com/OSU-MR/SCC
 * Related publication: https://arxiv.org/abs/2312.00936
-* Description: Implementation of a calibrationless k-space reconstruction for 2D static, 3D static, and 2D+t dynamic applications
-  
+* Description: Implementation of a surace coil intensity correction for data collected on Siemens scanners
 
 ## Public data repositories
 ### Open-Access Multi-Coil k-Space Dataset for CMR (OCMR)
