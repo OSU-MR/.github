@@ -15,6 +15,11 @@ Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, p
 * MATLAB code: https://github.com/OSU-CMR/HICU
 * Related publication: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.28721
 * Description: Implementation of a calibrationless k-space reconstruction for 2D static, 3D static, and 2D+t dynamic applications
+
+### Surface coil intensity correction (SCC)
+* Python code: https://github.com/OSU-MR/SCC
+* Related publication: https://arxiv.org/abs/2312.00936
+* Description: Implementation of a calibrationless k-space reconstruction for 2D static, 3D static, and 2D+t dynamic applications
   
 
 ## Public data repositories
