@@ -7,23 +7,23 @@ Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, p
 
 ## Public code repositories
 ### Data Sampling (GRO, CAVA, VISTA, OPRA, PR4D)
+Implementation of pseudo-random Cartesian sampling patterns for 2D cine, 2D flow, 3D cine, and 4D flow
 * MATLAB code: https://github.com/OSU-CMR/cmr-sampling
 * Related publication: https://arxiv.org/abs/2206.03630
-* Description: Implementation of pseudo-random Cartesian sampling patterns for 2D cine, 2D flow, 3D cine, and 4D flow
-      
+
 ### Image Reconstruction (HICU)
+Implementation of a calibrationless k-space reconstruction for 2D static, 3D static, and 2D+t dynamic applications
 * MATLAB code: https://github.com/OSU-CMR/HICU
 * Related publication: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.28721
-* Description: Implementation of a calibrationless k-space reconstruction for 2D static, 3D static, and 2D+t dynamic applications
 
 ### Surface coil intensity correction (SCC)
+Implementation of a surace coil intensity correction for data collected on Siemens scanners
 * Python code: https://github.com/OSU-MR/SCC
 * Related publication: https://arxiv.org/abs/2312.00936
-* Description: Implementation of a surace coil intensity correction for data collected on Siemens scanners
 
-* ### Conditional normalizing flow (CNF)
+### Conditional normalizing flow (CNF)
 Implementation of conditional normalizing flow for accelerated multi-coil MRI reconstruction
-* Python code: https://github.com/OSU-MR/SCC
+* Python code: https://proceedings.mlr.press/v202/wen23a
 * Related publication: https://arxiv.org/abs/2312.00936
 
   
