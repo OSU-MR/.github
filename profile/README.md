@@ -21,6 +21,12 @@ Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, p
 * Related publication: https://arxiv.org/abs/2312.00936
 * Description: Implementation of a surace coil intensity correction for data collected on Siemens scanners
 
+* ### Conditional normalizing flow (CNF)
+Implementation of conditional normalizing flow for accelerated multi-coil MRI reconstruction
+* Python code: https://github.com/OSU-MR/SCC
+* Related publication: https://arxiv.org/abs/2312.00936
+
+  
 ## Public data repositories
 ### Open-Access Multi-Coil k-Space Dataset for CMR (OCMR)
 * Python/MATLAB code: https://github.com/MRIOSU/OCMR/tree/master
