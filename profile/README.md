@@ -1,11 +1,13 @@
+___
 ## Welcome to Ohio State University's MRI Reconstruction (OSU-MR) Toolbox
 ### PI's website: https://u.osu.edu/ahmad/
 
 Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, pre-processing, and reconstruction. Our codebase is built on the principle of transparency, accessibility, and reproducibility.
 
+___
 ## Public code repositories
 ### Surface coil intensity correction (SCC)
-Implementation of a surace coil intensity correction for data collected on Siemens scanners
+Implementation of a surace coil intensity correction for the MRI data collected on Siemens' scanners
 * Python code: https://github.com/OSU-MR/SCC
 * Related publication: https://arxiv.org/abs/2312.00936
 
@@ -44,6 +46,7 @@ Implementation of a reconstruction method for accelerated 2D phase contrast and 
 * MATLAB code: https://github.com/arg-min-x/ReVEAL
 * Related publication: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.25904
   
+___
 ## Public data repositories
 ### Open-access multi-coil k-space dataset for CMR (OCMR)
 * Python/MATLAB code: https://github.com/MRIOSU/OCMR/tree/master
