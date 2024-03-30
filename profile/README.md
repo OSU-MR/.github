@@ -1,4 +1,4 @@
-** ----- Under GitHub page is currently under construction ----- **
+** ----- This GitHub page is currently under construction ----- **
 
 ## Welcome to Ohio State University's MRI Reconstruction (OSU-MR) Toolbox
 ### PI's website: https://u.osu.edu/ahmad/
