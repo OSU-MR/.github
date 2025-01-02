@@ -2,12 +2,17 @@ ___
 ## Welcome to Ohio State University's MRI Reconstruction (OSU-MR) Toolbox
 ### PI's website: https://u.osu.edu/ahmad/
 
-Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, pre-processing, and reconstruction. Our codebase is built on the principle of transparency, accessibility, and reproducibility.
+Welcome to OSU-MR. Our primary focus is to share code for MR data acquisition, pre-processing, and reconstruction. Our codebase is built on the principles of transparency, accessibility, and reproducibility.
 
 ___
 ## Public code repositories
+### Deep image prior with structured sparsity (DISCUS)
+A deep image prior-based unsupervised method for LGE image reconstruction
+* Python code: https://github.com/OSU-MR/discus
+* Related publication: https://ieeexplore.ieee.org/document/10635579
+
 ### Surface coil intensity correction (SCC)
-Implementation of a surace coil intensity correction for the MRI data collected on Siemens' scanners
+Implementation of a surface coil intensity correction for the MRI data collected on Siemens' scanners
 * Python code: https://github.com/OSU-MR/SCC
 * Related publication: https://arxiv.org/abs/2312.00936
 
@@ -37,7 +42,7 @@ Implementation of a calibrationless k-space reconstruction for 2D static, 3D sta
 * Related publication: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.28721
 
 ### Parameter-free reconstruction (SCoRe)
-Implementation of a parameter-free, sparsity adaptive reconstrution for 2D cardiac MRI
+Implementation of a parameter-free, sparsity adaptive reconstruction for 2D cardiac MRI
 * MATLAB code: https://github.com/MRIOSU/SCoRe_demo
 * Related publication: https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27671
 
